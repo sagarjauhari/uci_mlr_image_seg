@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+segmentation.data
+segmentation.names
+segmentation.test
